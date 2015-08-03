@@ -8,6 +8,7 @@ public class SampleMain {
 
 		System.out.println("---- test 3 -----")
 
+		System.out.println("---- test 4 -----")
 
 	}
 
